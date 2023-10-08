@@ -35,7 +35,7 @@ In this phase, the following steps were performed:
 1. **Filtered out undesired columns:** Identified and eliminated extraneous columns not necessary for analysis such as "product_class" and "product_size using SELECT tool
 2. **Data Type Conversion:** Ensured data types were compatible for analysis using SELECT tool
 3. **Renamed Columns:**Revamped column names to enhance clarity using SELECT tool
-4. **Quality Assurance:** Checked for data integrity and corrected any discrepancies.
+4. **Quality Assurance:** Checked for data integrity using tomporary BROWSE tool
 
 For a detailed view of the Data Cleaning process, refer to the [Alteryx Workflow (.yxmd)](link_to_yxmd_file).
 
