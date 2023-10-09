@@ -73,7 +73,7 @@ For a detailed view of the Cohort Analysis process, refer to the [Alteryx Workfl
 ...
 
 ## 4. Phase 3 Insights Generation {#insights-generation}
-The final phase encompassed the following steps:
+The final phase encompassed building worflows to derive the following:
 1. **Distinct Brands**: Identified unique brands available in the dataset.
 2. **Unique Customers**: Counted the number of unique customers who made transactions.
 3. **Approved vs. Unapproved Orders**: Quantified approved and unapproved transactions.
