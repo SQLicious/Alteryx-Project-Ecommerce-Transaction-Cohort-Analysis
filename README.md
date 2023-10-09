@@ -112,7 +112,7 @@ Throughout this project, I harnessed the full potential of Alteryx, seamlessly e
   - Append
   - Join
 
-- **Transform Tool Palette:**
+- **Transform Tools:**
   - Cross-Tab
   - Summarise
 
