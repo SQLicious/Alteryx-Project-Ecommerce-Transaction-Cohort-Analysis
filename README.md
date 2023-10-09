@@ -15,6 +15,7 @@ Quick Alteryx Workflow Demo Before Diving Into the Project Details
 4. Insights Generation
 5. Project Inspiration
 6. Methodology
+7. Upcoming Additions
 
 
 # 1. Dataset{#dataset}
@@ -39,14 +40,14 @@ The dataset provides the following key attributes:
 - Standard Cost
 - Product First Sold Date
 
-# 2. Phases
+# Phases
 
 This Alteryx workflow is designed to perform comprehensive analysis on customer transactions using the provided dataset. The project encompasses three main phases:
 1.Data Cleaning
 2.Cohort Analysis
 3.Business Insights Generation.
 
-## Phase 1- Data Cleanup {#data-cleanup}
+## 2. Phase 1- Data Cleanup {#data-cleanup}
 
 In this phase, the following steps were performed:
 1. **Filtered out undesired columns:** Identified and eliminated extraneous columns not necessary for analysis such as "product_class" and "product_size using SELECT tool
@@ -54,7 +55,7 @@ In this phase, the following steps were performed:
 3. **Renamed Columns:**Revamped column names to enhance clarity using SELECT tool
 4. **Quality Assurance:** Checked for data integrity using temporary BROWSE tool
 
-## Phase 2 - Cohort Analysis {#cohort-analysis}
+## 3. Phase 2 - Cohort Analysis {#cohort-analysis}
 
 This phase involved the following steps:
 1. **Customer Segmentation:** Grouped customers into cohorts based on their transaction behavior.
@@ -78,11 +79,11 @@ The final phase encompassed the following steps:
 For a detailed view of the Business Insights Generation process, refer to the [Alteryx Workflow (.yxmd)](https://github.com/SQLicious/Alteryx-Project-Ecommerce-Transaction-Cohort-Analysis/blob/main/3.%20Workflows/Phase%201-2-3.yxmd).
 
 
-## Project Inspiration {#project-inspiration}
+## 5. Project Inspiration {#project-inspiration}
 
 This project draws inspiration from Hicounsellor's 'Analyzing E-commerce Transactions'. However, I've taken a unique approach by exclusively utilizing Alteryx Designer. This showcases the efficiency of low-code solutions such as Alteryx Designer, offering a fresh perspective on streamlining processes and extracting actionable insights, even by a non-technical business user.
 
-## Methodology {#methodology}
+## 6. Methodology {#methodology}
 In this project, I leveraged the skills and knowledge acquired during the Alteryx Designer Core certification and the pursuit of four microcredentials. This allowed me to harness a robust set of Alteryx tools, putting them to work in a cohesive workflow.
 
 Throughout this project, I harnessed the full potential of Alteryx, seamlessly executing all phases. Leveraged a range of powerful tools from each tool palette
@@ -111,6 +112,11 @@ Throughout this project, I harnessed the full potential of Alteryx, seamlessly e
 
 I ensured an efficient data transformation process. This would have taken me 3 weeks (120 man hours using the SQL and Python approach) and i built this worklow in 3 days.
 This comprehensive utilization of Alteryx highlights its remarkable capabilities in ETL( Extract - Load - Transformation)
+
+## 7. Upcoming Additions {#upcoming-additions}
+
+I plan to automate the generation of a comprehensive PDF report combining Phase 2 cohort analysis results with answers to 13 business questions. This report will be sent automatically to a designated list of recipients. Additionally, I'm exploring the possibility of exporting Phase 2 cohort analysis data to Tableau using the Tableau output feature.
+
 
 **Project Created By: [Roopmathi Gunna]**
 **Date: [10-06-2023]**
