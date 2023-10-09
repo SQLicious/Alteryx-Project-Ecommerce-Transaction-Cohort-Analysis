@@ -11,8 +11,6 @@ In September 2023, guided by Alteryx expert Albert Bellamy, I undertook the 30-d
 
 Embark on a informational journey through my Alteryx project,designed to enhance e-commerce operations. This project has three vital stages: Data Cleanup, Cohort Analysis, and Insights generation. Together, we'll unravel the nuances of online shopping, driving strategic decisions to maximize revenue.
 
-This project draws inspiration from Hicounsellor's 'Analyzing E-commerce Transactions'. However, I've taken a unique approach by exclusively utilizing Alteryx Designer. This showcases the remarkable efficiency of low-code solution such as Alteryx , offering a fresh perspective on streamlining processes and extracting actionable insights for non-technical business professionals.
-
 Quick Alteryx Workflow Demo Before Diving Into the Project Details
 
 
@@ -97,7 +95,7 @@ For a detailed view of the Business Insights Generation process, refer to the [A
 
 ## 5. Project Inspiration {#project-inspiration}
 
-This project draws inspiration from Hicounsellor's 'Analyzing E-commerce Transactions'. However, I've taken a unique approach by exclusively utilizing Alteryx Designer. This showcases the efficiency of low-code solutions such as Alteryx Designer, offering a fresh perspective on streamlining processes and extracting actionable insights, even by a non-technical business user.
+This project draws inspiration from Hicounsellor's 'Analyzing E-commerce Transactions:Data Cleaning, Cohort Analysis, and SQL' that recommends a Python+SQL approach. However, I've taken a unique approach by exclusively utilizing Alteryx Designer. This showcases the efficiency of low-code solutions such as Alteryx Designer, offering a fresh perspective on streamlining processes and extracting actionable insights, even by a non-technical business user.
 
 ## 6. Methodology {#methodology}
 In this project, I leveraged the skills and knowledge acquired during the Alteryx Designer Core certification and the pursuit of four microcredentials. This allowed me to harness a robust set of Alteryx tools, putting them to work in a cohesive workflow.
