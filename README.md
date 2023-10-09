@@ -98,6 +98,7 @@ Throughout this project, I harnessed the full potential of Alteryx, seamlessly e
   - Sample
   - Select
   - Sort
+  - Unique
 
 - **Join Tools:**
   - Append
