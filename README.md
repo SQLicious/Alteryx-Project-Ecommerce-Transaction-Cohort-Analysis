@@ -73,7 +73,7 @@ The final phase encompassed the following steps:
 7. **Top 5 Product Lines by Revenue Contribution:** Identified product lines with the highest total revenue contribution.
 8. **Customers Who Purchased from All Product Lines:** Identified customers with transactions in all product lines.
 
-For a detailed view of the Business Insights Generation process, refer to the [Alteryx Workflow (.yxmd)](link_to_yxmd_file).
+For a detailed view of the Business Insights Generation process, refer to the [Alteryx Workflow (.yxmd)](https://github.com/SQLicious/Alteryx-Project-Ecommerce-Transaction-Cohort-Analysis/blob/main/3.%20Workflows/Phase%201-2-3.yxmd).
 
 
 ## Project Inspiration {#project-inspiration}
