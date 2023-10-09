@@ -6,14 +6,14 @@ Embark on a journey through my Alteryx project, meticulously designed to enhance
 
 # Table of Contents
 
-1. [Datset]
+1. [Dataset]
 2. [Data Cleanup](#data-cleanup)
 3. [Cohort Analysis](#cohort-analysis)
 4. [Insights Generation](#insights-generation)
 5. [Project Inspiration](#project-inspiration)
 6. [Methodology](#methodology)
 
-# 1. Dataset{#dataset)
+# 1. Dataset{#dataset}
 
 - [Download Dataset](https://github.com/SQLicious/Alteryx-Project-Ecommerce-Transaction-Cohort-Analysis/blob/main/Inputs/transaction_dataset.csv)
 
