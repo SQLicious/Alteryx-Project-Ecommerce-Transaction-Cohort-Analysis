@@ -2,7 +2,7 @@
 
 In September 2023, guided by Alteryx expert Albert Bellamy, I undertook the 30-day Alteryx challenge, culminating in earning the Alteryx Designer Core certification. in just 15 days.
 
-- This project showcases two critical capabilities:
+- This project showcases my two critical capabilities:
   - Rapid Learning: Demonstrates my ability to swiftly master new tools, an asset I bring to any employer.
   - Practical Application: Proves I can effectively employ these skills to solve business challenges and educate others, as evidenced by the comprehensive documentation provided in this GitHub repository.
 
