@@ -80,7 +80,7 @@ For a detailed view of the Business Insights Generation process, refer to the [A
 
 ## Project Inspiration {#project-inspiration}
 
-This project draws inspiration from Hicounsellor's 'Analyzing E-commerce Transactions'. However, I've taken a unique approach by exclusively utilizing Alteryx Designer. This showcases the remarkable efficiency of low-code solutions, offering a fresh perspective on streamlining processes and extracting actionable insights.
+This project draws inspiration from Hicounsellor's 'Analyzing E-commerce Transactions'. However, I've taken a unique approach by exclusively utilizing Alteryx Designer. This showcases the efficiency of low-code solutions such as Alteryx Designer, offering a fresh perspective on streamlining processes and extracting actionable insights, even by a non-technical business user.
 
 ## Methodology {#methodology}
 
