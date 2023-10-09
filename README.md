@@ -67,31 +67,20 @@ For a detailed view of the Cohort Analysis process, refer to the [Alteryx Workfl
 
 ## 4. Phase 3 Insights Generation {#insights-generation}
 The final phase encompassed the following steps:
-1. **Unique Brands**: Identifying the variety of products and manufacturers present in the sales records to understand market presence.
+1. Distinct Brands: Identified unique brands available in the dataset.
+2. Unique Customers: Counted the number of unique customers who made transactions.
+3. Approved vs. Unapproved Orders: Quantified approved and unapproved transactions.
+4. Average List Price by Product Line: Listed top product lines with the highest average list price.
+5. Top 5 Profitable Products: Identified products with the highest profit margin.
+6. Customer Spending Analysis: Evaluated customer transactions, including total spend and average profit per transaction.
+7. Top 5 Product Lines by Revenue Contribution: Identified product lines with the highest total revenue contribution.
+8. Customers Who Purchased from All Product Lines: Identified customers with transactions in all product lines.
+9. Total Sales Amount by Brand: Calculated the total sales amount for each brand.
+10. Top 5 Products with Highest Profit Margin: Identified the top 5 products with the highest profit margin.
+11. Customer Transaction Metrics: Calculated three metrics for each customer.
+12. Top Product Lines by Revenue Percentage: Identified product lines contributing the highest percentage of revenue.
+13. Customers Engaged with Entire Product Range: Identified customers who made transactions in all distinct product lines.
 
-2. **Unique Customers**: Assessing the extent of the customer base for segmentation and targeted marketing efforts.
-
-3. **Approved vs. Unapproved Orders**: Evaluating the success rate of transactions to improve operational efficiency.
-
-4. **Top Product Lines by List Price**: Identifying high-revenue product categories for pricing and marketing strategies.
-
-5. **High-Profit Margin Products**: Identifying products with significant profit margins for pricing decisions.
-
-6. **Average List Price by Product Line**: Understanding pricing trends within different product categories.
-
-7. **Brand with Maximum Price Margin**: Identifying brands with the potential for higher profit margins.
-
-8. **Customer Transactions Count**: Providing insights into customer behavior and loyalty.
-
-9. **Total Sales by Brand**: Identifying top-performing brands in terms of revenue generation.
-
-10. **Top 5 Profitable Products**: Pinpointing the most profitable products in inventory.
-
-11. **Customer Transaction Metrics**: Analyzing customer transaction history, expenditure, and average profitability.
-
-12. **Top Product Lines by Revenue**: Understanding which product lines drive significant sales and revenue.
-
-13. **Customers Across all Product Lines**: Identifying customers engaged with the entire product range.
 
 
 For a detailed view of the Business Insights Generation process, refer to the [Alteryx Workflow (.yxmd)](https://github.com/SQLicious/Alteryx-Project-Ecommerce-Transaction-Cohort-Analysis/blob/main/3.%20Workflows/Phase%201-2-3.yxmd).
