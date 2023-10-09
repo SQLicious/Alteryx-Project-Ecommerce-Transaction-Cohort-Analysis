@@ -86,20 +86,30 @@ This project draws inspiration from Hicounsellor's 'Analyzing E-commerce Transac
 In this project, I leveraged the skills and knowledge acquired during the Alteryx Designer Core certification and the pursuit of four microcredentials. This allowed me to harness a robust set of Alteryx tools, putting them to work in a cohesive workflow.
 
 Throughout this project, I harnessed the full potential of Alteryx, seamlessly executing all phases. Leveraged a range of powerful tools from each tool palette
-In/Out Tools- Input, Output
-Prepration Tools - Select, Filter, Sort, Sample, Formula, Multi-Field,Data cleansing , Filter, 
-Join tools - Join, Append
-Transform Tool pallete- Summarise, Cross-Tab
+- **In/Out Tools:**
+  - Input
+  - Output
+
+- **Preparation Tools:**
+  - Data Cleansing
+  - Filter
+  - Formula
+  - Multi-Field
+  - Sample
+  - Select
+  - Sort
+
+- **Join Tools:**
+  - Append
+  - Join
+
+- **Transform Tool Palette:**
+  - Cross-Tab
+  - Summarise
+
 
 I ensured an efficient data transformation process. This would have taken me 3 weeks (120 man hours using the SQL and Python approach) and i built this worklow in 3 days.
 This comprehensive utilization of Alteryx highlights its remarkable capabilities in ETL( Extract -Load - Transormation)
-
-
-
-
-
-
-
 
 **Project Created By: [Roopmathi Gunna]**
 **Date: [10-06-2023]**
