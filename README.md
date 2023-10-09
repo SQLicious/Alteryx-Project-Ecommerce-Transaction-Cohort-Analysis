@@ -7,12 +7,13 @@ This project draws inspiration from Hicounsellor's 'Analyzing E-commerce Transac
 
 # Table of Contents
 
-1. [Dataset: `transaction_dataset.csv`](#dataset)
-2. [Data Cleanup](#data-cleanup)
-3. [Cohort Analysis](#cohort-analysis)
-4. [Insights Generation](#insights-generation)
-5. [Project Inspiration](#project-inspiration)
-6. [Methodology](#methodology)
+1. Dataset: `transaction_dataset.csv`
+2. Data Cleanup
+3. Cohort Analysis
+4. Insights Generation
+5. Project Inspiration
+6. Methodology
+
 
 # 1. Dataset{#dataset}
 
