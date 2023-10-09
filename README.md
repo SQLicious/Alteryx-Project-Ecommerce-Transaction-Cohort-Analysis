@@ -4,6 +4,8 @@ Embark on a informational journey through my Alteryx project,designed to enhance
 
 This project draws inspiration from Hicounsellor's 'Analyzing E-commerce Transactions'. However, I've taken a unique approach by exclusively utilizing Alteryx Designer. This showcases the remarkable efficiency of low-code solution such as Alteryx , offering a fresh perspective on streamlining processes and extracting actionable insights for business professionals.
 
+Quick Alteryx Workflow Demo Before Diving Into the Project Details
+
 
 # Table of Contents
 
