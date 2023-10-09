@@ -1,7 +1,8 @@
 # Alteryx-Project-Ecommerce-Transaction-Cohort-Analysis
-Exploring E-commerce Transactions: Data Cleaning, Cohort Analysis, and Business Insights generation using Alteryx Designer Core. 
 
-Explore my Alteryx project which is is focused on optimizing e-commerce operations. This project encompasses Data Cleanup, Cohort Analysis, and Insights generation to drive informed business decisions. Join me in dissecting the intricacies of online shopping for enhanced  revenue. This project is inspired by the Portfolio project on Hicounsellor.com titled" Analyzing E-commerce Transactions:Data Cleaning, Cohort Analysis, and SQL". For this project inorder to demonstrate the power of low code Alteryx Designer instead of using SQL and Python as prescribed in the Hicounsellor project i have done this entire project in Alteryx Designer. 
+Embark on a informational journey through my Alteryx project,designed to enhance e-commerce operations. This project has three vital stages: Data Cleanup, Cohort Analysis, and Insights generation. Together, we'll unravel the nuances of online shopping, driving strategic decisions for maximum revenue.
+
+This project draws inspiration from Hicounsellor's 'Analyzing E-commerce Transactions'. However, I've taken a unique approach by exclusively utilizing Alteryx Designer. This showcases the remarkable efficiency of low-code solution such as Alteryx , offering a fresh perspective on streamlining processes and extracting actionable insights for business professionals.
 
 [Link to the Hicounsellor project](https://hicounselor.com/projects/analyzing-e-commerce-transactions-data-cleaning-cohort-analysis-and-sql)
 
