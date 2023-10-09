@@ -29,7 +29,7 @@ Quick Alteryx Workflow Demo Before Diving Into the Project Details
 
 - [Download Dataset](https://github.com/SQLicious/Alteryx-Project-Ecommerce-Transaction-Cohort-Analysis/blob/main/1.%20Inputs/transaction_dataset.csv)
 
-The project utilizes the `trasaction_dataset.csv` dataset, which contains detailed information about customer transactions, including transaction IDs, product details, customer IDs, dates, and order statuses, among others. This dataset was sourced from Hicounsellor.com/projects titled *"Analyzing E-commerce Transactions:Data Cleaning"*. This CSV contains 20,000 rows across 13 columns.
+The project utilizes the `trasaction_dataset.csv` dataset, which contains detailed information about customer transactions, including transaction IDs, product details, customer IDs, dates, and order statuses, among others. This dataset was sourced from Hicounsellor.com/projects titled *"Analyzing E-commerce Transactions"*. This CSV contains **20,000 rows** across 13 columns.
 
 ## Data Profile
 
