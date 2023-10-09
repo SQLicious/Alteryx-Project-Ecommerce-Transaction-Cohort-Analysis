@@ -110,7 +110,7 @@ Throughout this project, I harnessed the full potential of Alteryx, seamlessly e
 
 
 I ensured an efficient data transformation process. This would have taken me 3 weeks (120 man hours using the SQL and Python approach) and i built this worklow in 3 days.
-This comprehensive utilization of Alteryx highlights its remarkable capabilities in ETL( Extract -Load - Transormation)
+This comprehensive utilization of Alteryx highlights its remarkable capabilities in ETL( Extract - Load - Transformation)
 
 **Project Created By: [Roopmathi Gunna]**
 **Date: [10-06-2023]**
