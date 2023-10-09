@@ -60,7 +60,7 @@ In this phase, the following steps were performed:
 This phase involved the following steps:
 1. **Customer Segmentation:** Grouped customers into cohorts based on their transaction behavior.
 2. **Cohort Metrics:** Calculated key metrics (e.g., retention rate, average spend) for each cohort.
-3. **Visual Representation:** Generated visualizations to aid in cohort comparison.
+3. **Tabular Representation:** Generated Cohort Retention rate to aid in cohort comparison.
 
 For a detailed view of the Cohort Analysis process, refer to the [Alteryx Workflow (.yxmd)](https://github.com/SQLicious/Alteryx-Project-Ecommerce-Transaction-Cohort-Analysis/blob/main/3.%20Workflows/Phase%201-2-3.yxmd)
 ...
