@@ -7,7 +7,7 @@ This project draws inspiration from Hicounsellor's 'Analyzing E-commerce Transac
 
 # Table of Contents
 
-1. [Dataset]](#dataset)
+1. [Dataset](#dataset)
 2. [Data Cleanup](#data-cleanup)
 3. [Cohort Analysis](#cohort-analysis)
 4. [Insights Generation](#insights-generation)
