@@ -65,7 +65,7 @@ This phase involved the following steps:
 For a detailed view of the Cohort Analysis process, refer to the [Alteryx Workflow (.yxmd)](https://github.com/SQLicious/Alteryx-Project-Ecommerce-Transaction-Cohort-Analysis/blob/main/3.%20Workflows/Phase%201-2-3.yxmd)
 ...
 
-## Phase 3 Insights Generation {#insights-generation}
+## 4. Phase 3 Insights Generation {#insights-generation}
 The final phase encompassed the following steps:
 1. **Distinct Brands:** Identified unique brands available in the dataset.
 2. **Unique Customers:** Counted the number of unique customers who made transactions.
