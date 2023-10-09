@@ -6,7 +6,7 @@ Embark on a journey through my Alteryx project, meticulously designed to enhance
 
 # Table of Contents
 
-1. [Dataset]
+1. [Dataset]](#dataset)
 2. [Data Cleanup](#data-cleanup)
 3. [Cohort Analysis](#cohort-analysis)
 4. [Insights Generation](#insights-generation)
