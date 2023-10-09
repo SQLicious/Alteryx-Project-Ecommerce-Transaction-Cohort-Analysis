@@ -14,10 +14,8 @@ Embark on a informational journey through my Alteryx project,designed to enhance
 Quick Alteryx Workflow Demo Before Diving Into the Project Details
 [Alteryx Demo Video](https://screenrec.com/share/BRelXOq9fk)
 
-<video width="320" height="240" autoplay>
-  <source src="https://screenrec.com/share/BRelXOq9fk" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-OcZYung-ME" frameborder="0" allowfullscreen></iframe>
+
 
 
 
