@@ -77,7 +77,7 @@ The final phase encompassed the following steps:
 8. **Customers Who Purchased from All Product Lines**: Identified customers with transactions in all product lines.
 9. **Total Sales Amount by Brand**: Calculated the total sales amount for each brand.
 10. **Top 5 Products with Highest Profit Margin**: Identified the top 5 products with the highest profit margin.
-11. **Customer Transaction Metrics**: Calculated three metrics for each customer.
+11. **Customer Transaction Metrics**: Calculated three metrics for each customer. Total number of transactions. Total amount spent, Average profit per transaction
 12. **Top Product Lines by Revenue Percentage**: Identified product lines contributing the highest percentage of revenue.
 13. **Customers Engaged with Entire Product Range**: Identified customers who made transactions in all distinct product lines.
 
