@@ -13,10 +13,7 @@ Embark on a informational journey through my Alteryx project,designed to enhance
 
 Quick Alteryx Workflow Demo Before Diving Into the Project Details
 
-[![Project Demo Video]([https://img.youtube.com/vi/-OcZYung-ME/0.jpg)](https://youtu.be/-OcZYung-ME)](https://youtu.be/-OcZYung-ME)
-
-
-
+[![Watch the Project Demo Video](https://img.youtube.com/vi/-OcZYung-ME/0.jpg)](https://youtu.be/-OcZYung-ME)
 
 
 # Table of Contents
